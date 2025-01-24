@@ -1,0 +1,11 @@
+config:
+  cst8918-a03-infra:weatherApiKey:
+    secure: AAABADySXNNruoo/7xGqGGvVgkYDm5IEXK/yb2M6cY8WtXB2s6zc1u0MkPp+Z57a7e/wyw5axwtxdfTPxRVMOQ==
+  cst8918-a03-infra:appPath: ../
+  cst8918-a03-infra:prefixName: cst8918a03bhat0199
+  cst8918-a03-infra:imageTag: v0.1.0
+  cst8918-a03-infra:containerPort: "80"
+  cst8918-a03-infra:publicPort: "80"
+  cst8918-a03-infra:cpu: "1"
+  cst8918-a03-infra:memory: "2"
+  azure-native:location: westus3
